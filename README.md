@@ -19,4 +19,5 @@
 
 ## 💡 Technologies Used
 - Oracle SQL
-- MySQL/PostgreSQL (Any SQL database)
+- MySQL/PostgreSQL
+- (Any SQL database)
